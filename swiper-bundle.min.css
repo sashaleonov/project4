@@ -1,0 +1,11 @@
+.swiper, swiper-container {
+    padding-top: 0px;
+    
+}
+
+@media (max-width: 480px) {
+    .swiper, swiper-container {
+        position: absolute;
+    }
+    
+}
